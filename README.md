@@ -1,8 +1,8 @@
 
 # EXP NO 8: THRESHOLDING
 
-### Name: AnbuVinotha.S
-### Register No: 212223230015
+### Name: Vidhiya Lakshmi.S
+### Register No: 212223230238
 ### Date:
 
 ## Aim
